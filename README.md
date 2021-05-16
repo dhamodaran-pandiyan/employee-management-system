@@ -17,7 +17,6 @@
 [![Forks](https://img.shields.io/github/forks/dhamodaran-pandiyan/employee-management-system.svg?logo=github)](https://github.com/dhamodaran-pandiyan/employee-management-system/network/members)
 [![Stargazers](https://img.shields.io/github/stars/dhamodaran-pandiyan/employee-management-system.svg?logo=github)](https://github.com/dhamodaran-pandiyan/employee-management-system/stargazers)
 [![Issues](https://img.shields.io/github/issues/dhamodaran-pandiyan/employee-management-system.svg?logo=github)](https://github.com/dhamodaran-pandiyan/employee-management-system/issues)
-[![MIT License](https://img.shields.io/github/license/dhamodaran-pandiyan/employee-management-system.svg?style=flat-square)](https://github.com/dhamodaran-pandiyan/employee-management-system/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dhamodaranpandiyan/)
 
 ### 🚀&nbsp; Usage
